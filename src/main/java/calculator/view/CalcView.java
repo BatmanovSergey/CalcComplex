@@ -31,13 +31,13 @@ public class CalcView {
                         double a2real = promptDouble("Введите действительную часть второго аргумента: ");
                         double a2image = promptDouble("Введите мнимую часть второго аргумента: ");
                         log.log(Level.INFO, "Вычитание комплексных чисел выполнено!");
-                        controller.multi(a1real, a1image, a2real, a2image).print();
+                        controller.sub(a1real, a1image, a2real, a2image).print();
                     }
                     case "*" -> {
                         double a2real = promptDouble("Введите действительную часть второго аргумента: ");
                         double a2image = promptDouble("Введите мнимую часть второго аргумента: ");
                         log.log(Level.INFO, "Умножение комплексных чисел выполнено!");
-                        controller.sub(a1real, a1image, a2real, a2image).print();
+                        controller.multi(a1real, a1image, a2real, a2image).print();
 
                     }
                     case "/" -> {

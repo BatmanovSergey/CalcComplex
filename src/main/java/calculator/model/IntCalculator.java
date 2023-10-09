@@ -4,11 +4,9 @@ import calculator.model.imp.Calculable;
 
 public class IntCalculator implements Calculable<Integer> {
     private int num;
-
     public IntCalculator(int num) {
         this.num = num;
     }
-
 
     @Override
     public Integer summary(Integer i, Integer y) {

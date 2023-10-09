@@ -19,9 +19,17 @@ public class ComplexNum {
 
     public void print() {
         if (image > 0) {
-            System.out.println(real + " + " + image + "i");
+            if (real == 0) {
+                System.out.println(image + "i");
+            } else {
+                System.out.println(real + "+" + image + "i");
+            }
         } else if (image < 0) {
-            System.out.println(real + "" + image + "i");
+            if (real == 0) {
+                System.out.println(image + "i");
+            } else {
+                System.out.println(real + "" + image + "i");
+            }
         } else {
             System.out.println(real);
         }

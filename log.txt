@@ -20,3 +20,63 @@ INFO: Калькулятор комплексных чисел запущен!
 INFO: Калькулятор комплексных чисел запущен!
 окт. 09, 2023 10:55:18 PM calculator.view.CalcView run
 INFO: Сложение комплексных чисел выполнено!
+окт. 09, 2023 11:33:32 PM calculator.Main main
+INFO: Калькулятор комплексных чисел запущен!
+окт. 09, 2023 11:34:02 PM calculator.view.CalcView run
+INFO: Вычитание комплексных чисел выполнено!
+окт. 09, 2023 11:34:33 PM calculator.view.CalcView run
+WARNING: Ошибка ввода данных!
+
+окт. 09, 2023 11:34:41 PM calculator.view.CalcView run
+WARNING: Ошибка ввода данных!
+
+окт. 09, 2023 11:34:45 PM calculator.view.CalcView run
+WARNING: Ошибка ввода данных!
+
+окт. 09, 2023 11:34:56 PM calculator.Main main
+INFO: Калькулятор комплексных чисел запущен!
+окт. 09, 2023 11:35:03 PM calculator.view.CalcView run
+INFO: Вычитание комплексных чисел выполнено!
+окт. 09, 2023 11:36:20 PM calculator.Main main
+INFO: Калькулятор комплексных чисел запущен!
+окт. 09, 2023 11:36:28 PM calculator.view.CalcView run
+INFO: Сложение комплексных чисел выполнено!
+окт. 09, 2023 11:39:22 PM calculator.Main main
+INFO: Калькулятор комплексных чисел запущен!
+окт. 09, 2023 11:39:29 PM calculator.view.CalcView run
+INFO: Умножение комплексных чисел выполнено!
+окт. 09, 2023 11:47:57 PM calculator.Main main
+INFO: Калькулятор комплексных чисел запущен!
+окт. 09, 2023 11:48:14 PM calculator.view.CalcView run
+INFO: Сложение комплексных чисел выполнено!
+окт. 09, 2023 11:49:10 PM calculator.view.CalcView run
+INFO: Сложение комплексных чисел выполнено!
+окт. 10, 2023 12:00:27 AM calculator.Main main
+INFO: Калькулятор комплексных чисел запущен!
+окт. 10, 2023 12:00:40 AM calculator.view.CalcView run
+INFO: Сложение комплексных чисел выполнено!
+окт. 10, 2023 12:01:00 AM calculator.view.CalcView run
+INFO: Сложение комплексных чисел выполнено!
+окт. 10, 2023 12:01:19 AM calculator.view.CalcView run
+INFO: Сложение комплексных чисел выполнено!
+окт. 10, 2023 12:01:33 AM calculator.view.CalcView run
+INFO: Сложение комплексных чисел выполнено!
+окт. 10, 2023 12:01:44 AM calculator.view.CalcView run
+INFO: Сложение комплексных чисел выполнено!
+окт. 10, 2023 12:02:10 AM calculator.Main main
+INFO: Калькулятор комплексных чисел запущен!
+окт. 10, 2023 12:02:20 AM calculator.view.CalcView run
+INFO: Умножение комплексных чисел выполнено!
+окт. 10, 2023 12:05:54 AM calculator.Main main
+INFO: Калькулятор комплексных чисел запущен!
+окт. 10, 2023 12:06:01 AM calculator.view.CalcView run
+WARNING: Ошибка ввода данных!
+
+окт. 10, 2023 12:06:10 AM calculator.Main main
+INFO: Калькулятор комплексных чисел запущен!
+окт. 10, 2023 12:06:16 AM calculator.view.CalcView run
+INFO: Вычитание комплексных чисел выполнено!
+окт. 10, 2023 12:06:37 AM calculator.view.CalcView run
+INFO: Деление комплексных чисел выполнено!
+окт. 10, 2023 12:06:53 AM calculator.view.CalcView run
+INFO: Умножение комплексных чисел выполнено!
