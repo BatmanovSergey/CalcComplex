@@ -1,9 +1,9 @@
 package calculator.model;
 
 
-import calculator.model.imp.ComplexCalculable;
+import calculator.model.imp.Calculable;
 
-public class ComplexCalculator implements ComplexCalculable {
+public class ComplexCalculator implements Calculable<ComplexNum> {
 
     @Override
     public ComplexNum summary(ComplexNum c1, ComplexNum c2) {

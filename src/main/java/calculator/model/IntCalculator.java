@@ -1,8 +1,8 @@
 package calculator.model;
 
-import calculator.model.imp.ComplexCalculable;
+import calculator.model.imp.Calculable;
 
-public class IntCalculator implements ComplexCalculable {
+public class IntCalculator implements Calculable<Integer> {
     private int num;
 
     public IntCalculator(int num) {
@@ -11,17 +11,22 @@ public class IntCalculator implements ComplexCalculable {
 
 
     @Override
-    public ComplexNum summary(ComplexNum comp1, ComplexNum comp2) {
+    public Integer summary(Integer i, Integer y) {
         return null;
     }
 
     @Override
-    public ComplexNum multiplication(ComplexNum comp1, ComplexNum comp2) {
+    public Integer subtraction(Integer i, Integer y) {
         return null;
     }
 
     @Override
-    public ComplexNum division(ComplexNum comp1, ComplexNum comp2) {
+    public Integer multiplication(Integer i, Integer y) {
+        return null;
+    }
+
+    @Override
+    public Integer division(Integer i, Integer y) {
         return null;
     }
 }

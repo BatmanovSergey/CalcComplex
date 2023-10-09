@@ -24,29 +24,29 @@ public class CalcView {
                     case "+" -> {
                         double a2real = promptDouble("Введите действительную часть второго аргумента: ");
                         double a2image = promptDouble("Введите мнимую часть второго аргумента: ");
-                        controller.sum(a1real, a1image, a2real, a2image).print();
                         log.log(Level.INFO, "Сложение комплексных чисел выполнено!");
+                        controller.sum(a1real, a1image, a2real, a2image).print();
                     }
                     case "-" -> {
                         double a2real = promptDouble("Введите действительную часть второго аргумента: ");
                         double a2image = promptDouble("Введите мнимую часть второго аргумента: ");
-                        controller.multi(a1real, a1image, a2real, a2image).print();
                         log.log(Level.INFO, "Вычитание комплексных чисел выполнено!");
+                        controller.multi(a1real, a1image, a2real, a2image).print();
                     }
                     case "*" -> {
                         double a2real = promptDouble("Введите действительную часть второго аргумента: ");
                         double a2image = promptDouble("Введите мнимую часть второго аргумента: ");
-                        controller.sub(a1real, a1image, a2real, a2image).print();
                         log.log(Level.INFO, "Умножение комплексных чисел выполнено!");
+                        controller.sub(a1real, a1image, a2real, a2image).print();
+
                     }
                     case "/" -> {
                         double a2real = promptDouble("Введите действительную часть второго аргумента: ");
                         double a2image = promptDouble("Введите мнимую часть второго аргумента: ");
-                        controller.div(a1real, a1image, a2real, a2image).print();
                         log.log(Level.INFO, "Деление комплексных чисел выполнено!");
+                        controller.div(a1real, a1image, a2real, a2image).print();
                     }
                     default -> throw new RuntimeException();
-
                 }
                 String message = prompt("Произвести ещё вычисление? (y/n)?");
                 if (message.equals("y")) {
